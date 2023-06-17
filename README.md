@@ -17,4 +17,4 @@
 <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmattyou&amp;theme=react&amp;hide_border=true&amp;border_radius=2&amp;card_width=1000&amp;size_weight=0.4&amp;count_weight=0.6" alt="Top Langs"></a></p>
 
 <p align='center'>Thanks for visiting!</p>
-<p align='center'><img src="https://komarev.com/ghpvc/?username=alexmattyou&color=blue&style=flat" /></p>
+<p align='center'><img src="https://komarev.com/ghpvc/?username=alexmattyou&color=blue&style=for-the-badge" /></p>
