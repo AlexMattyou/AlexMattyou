@@ -1,4 +1,3 @@
-**Alex**
 <h2 align="center" id="hi-everyone-i-m-alex-">🔹🔷🔹 Hi everyone, I&#39;m Alex 🔹🔷🔹</h2>
 <p align='center'><img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></p> 
 <p align='center'>Welcome to my page!</p>
