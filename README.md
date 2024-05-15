@@ -14,6 +14,6 @@
 <h3>Github statistics:</h3>
 <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alexmattyou&amp;theme=react&amp;hide_border=true&amp;border_radius=2&amp;card_width=1000" alt="GitHub Streak"></a></p>
 <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=alexmattyou&amp;theme=react&amp;hide_border=true&amp;border_radius=2&amp;card_width=1000" alt="Anurag&#39;s GitHub stats"></a></p>
-<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmattyou&amp;theme=react&amp;hide_border=true&amp;border_radius=2&amp;card_width=1000&amp;size_weight=0&amp;count_weight=1" alt="Top Langs"></a></p>
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmattyou&amp;theme=react&amp;hide_border=true&amp;border_radius=2&amp;card_width=1000&amp;size_weight=0.05&amp;count_weight=0.95" alt="Top Langs"></a></p>
 
 <p align='center'>Thanks for visiting!</p>
