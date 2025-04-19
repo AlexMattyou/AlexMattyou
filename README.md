@@ -13,7 +13,7 @@
   <li><strong>Backend: </strong>Node.js, Express, RESTful APIs</li>
   <li><strong>Databases: </strong>MongoDB, DynamoDB</li>
   <li><strong>Cloud & DevOps: </strong>AWS Cloud, GitHub Actions, Render.com</li>
-  <li><strong>• Tools & OS: </strong>Linux (Mint), Git, VSCodium, Visual Studio, Figma</li>
+  <li><strong>Tools & OS: </strong>Linux (Mint), Git, VSCodium, Visual Studio, Figma</li>
   <li><strong>Soft Skills: </strong>English Communication, Presentation, Problem Solving</li>
 </ul>
 
