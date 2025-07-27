@@ -16,5 +16,3 @@
   <li><strong>Tools & OS: </strong>Linux (Mint), Git, VSCodium, Visual Studio, Figma</li>
   <li><strong>Soft Skills: </strong>English Communication, Presentation, Problem Solving</li>
 </ul>
-
-<p align='center'>Thanks for visiting!</p>
