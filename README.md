@@ -3,7 +3,10 @@
 <p align='center'>Welcome to my page!</p>
 <p align="center">Every day, I like to learn something new. And I like create and solve more problems!<br>Curently I struck in college studying B.Tech<br>I'll take it as a new experience :D</p>
 <p align="center">
-<a href="https://alexmatt.onrender.com"><img src="https://img.shields.io/badge/My-Website-72ceff?style=for-the-badge" alt="My - Website"></a>
+<!-- <a href="https://alexmatt.onrender.com"><img src="https://img.shields.io/badge/My-Website-72ceff?style=for-the-badge" alt="My - Website"></a> -->
+  <a href="https://github.com/AlexMattyou">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMattyou&layout=compact&theme=blueberry&hide=Jupyter%20Notebook" />
+</a>
 </p>
 
 <h3>I'm skilled in:</h3>
@@ -16,3 +19,5 @@
   <li><strong>Tools & OS: </strong>Linux (Mint), Git, VSCodium, Visual Studio, Figma</li>
   <li><strong>Soft Skills: </strong>English Communication, Presentation, Problem Solving</li>
 </ul>
+
+
