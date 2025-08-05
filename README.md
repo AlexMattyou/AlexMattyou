@@ -10,9 +10,13 @@ Building apps with a purpose, growing step by step
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexmattyou" target="_blank">
+  <a href="https://codetime.dev">
+  <img src="https://shields.jannchie.com/endpoint?style=flat&color=seagreen&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34061%26minutes%3D43200" alt="CodeTime Badge">
+</a>
+
+  <!--<a href="https://www.linkedin.com/in/alexmattyou" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  </a>-->
 </p>
 
 <!-- Website button (uncomment if needed)
