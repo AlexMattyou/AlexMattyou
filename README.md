@@ -83,7 +83,7 @@ Building apps with a purpose, growing step by step
 <h3 align="center">Github Stats</h3>
 <p align="center">
   <a href="https://github.com/AlexMattyou?tab=repositories">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexMattyou&theme=tokyonight&hide_border=true&card_width=500&background=00000000" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=AlexMattyou&theme=tokyonight&hide_border=true&card_width=500&background=00000000" />
   </a>
   <br>
   <a href="https://github.com/AlexMattyou?tab=repositories">
@@ -93,6 +93,12 @@ Building apps with a purpose, growing step by step
   <a href="https://github.com/AlexMattyou?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=AlexMattyou&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&card_width=500&bg_color=00000000" />
   </a>
+  <br>
+  <a href="https://github.com/AlexMattyou">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlexMattyou&theme=tokyonight&bg_color=00000000&hide_border=true"/>
+  </a>
+<!--   <img src="https://github.com/AlexMattyou/AlexMattyou/blob/output/github-contribution-grid-snake.svg"/> -->
+
 </p>
 
 </div>
