@@ -10,13 +10,15 @@ Building apps with a purpose, growing step by step
 </p>
 
 <p align="center">
-  <a href="https://codetime.dev">
+  <a href="https://wakatime.com/@32298253-5ac7-4b9f-a9c9-92d892611936">
   <img src="https://shields.jannchie.com/endpoint?style=flat&color=seagreen&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34061%26minutes%3D43200" alt="CodeTime Badge">
 </a>
 
   <!--<a href="https://www.linkedin.com/in/alexmattyou" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>-->
+  </a>
+  <a href="https://wakatime.com/@32298253-5ac7-4b9f-a9c9-92d892611936"><img src="https://wakatime.com/badge/user/32298253-5ac7-4b9f-a9c9-92d892611936.svg" alt="Total time coded since Aug 5 2025" /></a>
+  -->
 </p>
 
 <!-- Website button (uncomment if needed)
