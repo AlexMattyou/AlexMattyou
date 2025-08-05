@@ -83,11 +83,11 @@ Building apps with a purpose, growing step by step
 <h3 align="center">Github Stats</h3>
 <p align="center">
   <a href="https://github.com/AlexMattyou?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMattyou&layout=compact&hide_border=true&theme=tokyonight&hide=Jupyter%20Notebook&bg_color=00000000&card_width=500" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexMattyou&theme=tokyonight&hide_border=true&card_width=500&background=00000000" />
   </a>
   <br>
   <a href="https://github.com/AlexMattyou?tab=repositories">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexMattyou&theme=tokyonight&hide_border=true&card_width=500&background=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMattyou&layout=compact&hide_border=true&theme=tokyonight&hide=Jupyter%20Notebook&bg_color=00000000&card_width=500" />
   </a>
   <br>
   <a href="https://github.com/AlexMattyou?tab=repositories">
