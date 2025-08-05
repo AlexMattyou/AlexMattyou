@@ -2,7 +2,13 @@
 
 <h2 id="hi-everyone-i-m-alex-">Hi everyone, I'm Alex &nbsp<img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"> </h2>
 
-<p>Every day, I like to learn something new. And I like create and solve more problems!<br>Curently I struck in college studying B.Tech<br>I'll take it as a new experience :D</p>
+<p>
+Every day, I like to learn something new in tech<br>
+Full-Stack developer focused in backend with NoSQL databases and Cloud Architect<br>
+AI and Data Science student researching them deeper<br>
+Building apps with a purpose, growing step by step
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -77,13 +83,16 @@
 <h3 align="center">Github Stats</h3>
 <p align="center">
   <a href="https://github.com/AlexMattyou?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMattyou&layout=compact&hide_border=true&theme=github_dark&hide=Jupyter%20Notebook&bg_color=00000000&card_width=500" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMattyou&layout=compact&hide_border=true&theme=tokyonight&hide=Jupyter%20Notebook&bg_color=00000000&card_width=500" />
   </a>
   <br>
   <a href="https://github.com/AlexMattyou?tab=repositories">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexMattyou&theme=github-dark&hide_border=true&card_width=500&background=00000000" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexMattyou&theme=tokyonight&hide_border=true&card_width=500&background=00000000" />
+  </a>
+  <br>
+  <a href="https://github.com/AlexMattyou?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlexMattyou&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&card_width=500&bg_color=00000000" />
   </a>
 </p>
-
 
 </div>
