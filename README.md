@@ -102,7 +102,7 @@ Building apps with a purpose, growing step by step
   </a>
   <br> -->
   <a href="https://wakatime.com/@32298253-5ac7-4b9f-a9c9-92d892611936" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlexMattyou&theme=tokyonight&bg_color=00000000&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlexMattyou&range=last_30_days&custom_title=My%20coding%20time%20(Last%207%20days)&theme=tokyonight&bg_color=00000000&hide_border=true"/>
   </a>
 
 </p>
