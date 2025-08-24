@@ -2,16 +2,15 @@
 
 <h2 id="hi-everyone-i-m-alex-">Hi everyone, I'm Alex &nbsp<img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"> </h2>
 
-<p>
-Every day, I like to learn something new in tech<br>
-Full-Stack developer focused in backend with NoSQL databases and Cloud Architect<br>
-AI and Data Science student researching them deeper<br>
-Building apps with a purpose, growing step by step
-</p>
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=FFFFFF&size=16&duration=2000&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=Every+day,+I+like+to+learn+something+new+in+tech;Full-Stack+developer+focused+in+backend+with+NoSQL+databases+and+Cloud+Architect;AI+and+Data+Science+student+researching+them+deeper;Building+apps+with+a+purpose,+growing+step+by+step"
+    alt=" Every day, I like to learn something new in tech | Full-Stack developer focused in backend with NoSQL databases and Cloud Architect | AI and Data Science student researching them deeper | Building apps with a purpose, growing step by step">
+</a>
+
 
 <p align="center">
   <a href="https://wakatime.com/@32298253-5ac7-4b9f-a9c9-92d892611936", target="_blank">
-    <img src="https://shields.jannchie.com/endpoint?style=flat-square&color=7b2cbf&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34061%26minutes%3D43200" alt="Last 30 Days" />
+    <img src="https://shields.jannchie.com/endpoint?style=plastic&color=0d1117&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34061%26minutes%3D43200" alt="Last 30 Days" />
   </a>
 
   <!--<a href="https://www.linkedin.com/in/alexmattyou" target="_blank">
