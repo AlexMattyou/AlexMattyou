@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://wakatime.com/@32298253-5ac7-4b9f-a9c9-92d892611936", target="_blank">
-    <img src="https://shields.jannchie.com/endpoint?style=plastic&color=0d1117&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34061%26minutes%3D43200" alt="Last 30 Days" />
+    <img src="https://shields.jannchie.com/endpoint?style=social&color=0d1117&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34061%26minutes%3D43200" alt="Last 30 Days" />
   </a>
 
   <!--<a href="https://www.linkedin.com/in/alexmattyou" target="_blank">
