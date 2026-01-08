@@ -7,12 +7,6 @@
     alt=" Every day, I like to learn something new in tech | Full-Stack developer focused in backend with NoSQL databases and Cloud Architect | AI and Data Science student researching them deeper | Building apps with a purpose, growing step by step">
 </a>
 
-
-<p align="center">
-  <a href="https://wakatime.com/@32298253-5ac7-4b9f-a9c9-92d892611936", target="_blank">
-    <img src="https://shields.jannchie.com/endpoint?style=social&color=0d1117&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34061%26minutes%3D43200" alt="Last 30 Days" />
-  </a>
-
   <!--<a href="https://www.linkedin.com/in/alexmattyou" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -62,10 +56,9 @@
     </td>
   </tr>
   <tr>
-    <td><strong>☁️ Cloud & DevOps</strong></td>
+    <td><strong>☁️ Cloud</strong></td>
     <td>
-      <a href="#"><img src="https://img.shields.io/badge/AWS-%23FF9900?style=flat&logo=amazon-aws&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/AWS CDK-%23FF9900?style=flat&logo=amazon-aws&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
@@ -84,6 +77,11 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://wakatime.com/@32298253-5ac7-4b9f-a9c9-92d892611936", target="_blank">
+    <img src="https://shields.jannchie.com/endpoint?style=social&color=0d1117&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34061%26minutes%3D43200" alt="Last 30 Days" />
+  </a>
 
 
 <!-- <h3 align="center">Github Stats</h3>
